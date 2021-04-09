@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    druid:
+      url: jdbc:mysql://localhost:3306/bookstore
+      username: root
+      password: Kingback666
+      driver-class-name: com.mysql.jdbc.Driver

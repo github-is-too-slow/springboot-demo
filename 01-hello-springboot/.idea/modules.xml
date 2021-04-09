@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-crud-with-mybatis-plus/01-crud-with-mybatis-plus.iml" filepath="$PROJECT_DIR$/01-crud-with-mybatis-plus/01-crud-with-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-hello-springboot.iml" filepath="$PROJECT_DIR$/01-hello-springboot.iml" />
+    </modules>
+  </component>
+</project>
